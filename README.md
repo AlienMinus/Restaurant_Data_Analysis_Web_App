@@ -115,7 +115,7 @@ This project is open-source and available under the MIT License.
 ## 🌟 Acknowledgments
 - Streamlit
 - scikit-learn
-- Foliumd
+- Folium
 
 
 
